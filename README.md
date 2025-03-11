@@ -1,7 +1,7 @@
 
-### Script ini support panel version os vps berikut
+### script ini di share secara gratis mohon untuk tidak di jual 
 
-| Operating System | Version | Supported          | PHP Version |
+| Support OS | Version | Supported          | PHP Version |
 | ---------------- | ------- | ------------------ | ----------- |
 | Ubuntu           | 14.04   | :red_circle:       |             |
 |                  | 16.04   | :red_circle: \*    |             |
